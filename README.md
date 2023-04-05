@@ -13,43 +13,6 @@
     <title> Poss Monochrome </title>
     <br></br>
 </head>
-body {
-    background-color:#eeedea;
-  }
-  
-  h1 {
-    color: rgb(0, 0, 0);
-    text-align: center;
-    font-family: Quicksand;
-  }
-  
-  p {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 20px;
-    color: rgb(0, 0, 0);
-    text-align: center;
-  }
-  img {
-    border-radius: 8px;
-  
-  }
-  p {
-    font-family: 'IBM Plex Sans Thai';
-    font-size: 18px;
-    color: rgb(0, 0, 0);
-    text-align: center;
-  }
-  
-  p1{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 14px;
-    color: rgb(0, 0, 0);
-    text-align: center;
-  }
-  a {
-    color: rgb(0, 0, 0);
-    font-size: 14px;
-  }
 <h1>Poss Monochrome</h1>
 <center><img
         src="https://cms.dmpcdn.com/food/2021/09/14/0d8f5400-151b-11ec-a702-33d1e17c1196_original.jpg"
